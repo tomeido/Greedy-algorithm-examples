@@ -1,2 +1,2 @@
 # Greedy-algorithm-examples
-Greedy algorithm examples
+__NOTES__
